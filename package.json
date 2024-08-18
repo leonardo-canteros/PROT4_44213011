@@ -1,0 +1,22 @@
+{
+  "name": "prot4_44213011",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leonardo Canteros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "description": ""
+}
